@@ -1,7 +1,7 @@
 # DM Registro de Visitantes
 
 
-## Registro de vbisitantes en stand
+## Registro de visitantes en stand
 
 Registro simple con importación a excel
 
